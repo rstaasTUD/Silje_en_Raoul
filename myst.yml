@@ -3,11 +3,11 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
+    - name: Raoul Staas
+    - name: Silje Riemsdijk
 
   date: 2025-11-05
-  github: https://github.com/Contemporary-Physicslab/thermolab # Change this URL to your GitHub repository
+  github: https://rstaastud.github.io/Silje_en_Raoul/ # Change this URL to your GitHub repository
 
 extends:
   - plugins.yml
